@@ -33,4 +33,8 @@ Notebook terakhir ini digunakan untuk klasifikasi credit card fraud dengan Multi
 ### Deskripsi Masalah
 Mengembangkan model prediktif supaya dapat menyelesaikan masalah penipuan credit card. Masalah utama yang diatasi adalah prediksi nilai target berdasarkan variabel input, serta mengukur kinerja model menggunakan metrik evaluasi seperti akurasi atau Mean Squared Error (MSE).
 
+# Cara Penggunaan Notebook
+1. Buka file .ipynb di Jupyter Notebook.
+2. Klik *Open in Colab* di dalam file di GitHub
+
 ---
